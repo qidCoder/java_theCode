@@ -1,0 +1,11 @@
+*{
+	padding: 5px;
+	margin: 5px;
+}
+
+body{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
