@@ -18,6 +18,8 @@
 		<input type="text" name="code_input"/>
 		<button>Try Code</button>
 	</form>
+	
+	<a href="/clear">Clear session</a>
 
 </body>
 </html>
